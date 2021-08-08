@@ -1,0 +1,76 @@
+{
+  "now": 1608644339,
+  "now_dt": "2020-12-22T13:38:59.694063Z",
+  "info": {
+    "url": "https://yandex.ru/pogoda/66?lat=54.97484765&lon=73.47753852",
+    "lat": 54.97484764801261,
+    "lon": 73.4775385177515
+  },
+  "fact": {
+    "obs_time": 1608642000,
+    "temp": -13,
+    "feels_like": -18,
+    "icon": "ovc",
+    "condition": "overcast",
+    "wind_speed": 2.9,
+    "wind_dir": "sw",
+    "pressure_mm": 759,
+    "pressure_pa": 1011,
+    "humidity": 88,
+    "daytime": "n",
+    "polar": "False",
+    "season": "winter",
+    "wind_gust": 4.6
+  },
+  "forecast": {
+    "date": "2020-12-23",
+    "date_ts": 1608660000,
+    "week": 52,
+    "sunrise": "09:29",
+    "sunset": "16:40",
+    "moon_code": 12,
+    "moon_text": "moon-code-12",
+    "parts": [
+      {
+        "part_name": "night",
+        "temp_min": -12,
+        "temp_avg": -11,
+        "temp_max": -11,
+        "wind_speed": 3.6,
+        "wind_gust": 7.4,
+        "wind_dir": "sw",
+        "pressure_mm": 757,
+        "pressure_pa": 1009,
+        "humidity": 88,
+        "prec_mm": 0.6,
+        "prec_prob": 90,
+        "prec_period": 360,
+        "icon": "ovc_-sn",
+        "condition": "light-snow",
+        "feels_like": -17,
+        "daytime": "n",
+        "polar": "False"
+      },
+      {
+        "part_name": "morning",
+        "temp_min": -11,
+        "temp_avg": -9,
+        "temp_max": -9,
+        "wind_speed": 4.9,
+        "wind_gust": 10.4,
+        "wind_dir": "sw",
+        "pressure_mm": 754,
+        "pressure_pa": 1005,
+        "humidity": 88,
+        "prec_mm": 2.1,
+        "prec_prob": 90,
+        "prec_period": 360,
+        "icon": "ovc_+sn",
+        "condition": "snow",
+        "feels_like": -16,
+        "daytime": "n",
+        "polar": "False"
+      }
+    ]
+  }
+}
